@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to left,rgb(229, 255, 0),rgb(0, 143, 187));
+    padding: 300px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine; 
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+}
